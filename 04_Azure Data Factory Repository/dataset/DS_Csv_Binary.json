@@ -13,9 +13,6 @@
 				"type": "string"
 			}
 		},
-		"folder": {
-			"name": "yt version"
-		},
 		"annotations": [],
 		"type": "Binary",
 		"typeProperties": {

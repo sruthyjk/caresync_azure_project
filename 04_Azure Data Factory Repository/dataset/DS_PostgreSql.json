@@ -5,9 +5,6 @@
 			"referenceName": "LS_PostgreSql",
 			"type": "LinkedServiceReference"
 		},
-		"folder": {
-			"name": "yt version"
-		},
 		"annotations": [],
 		"type": "PostgreSqlV2Table",
 		"schema": []

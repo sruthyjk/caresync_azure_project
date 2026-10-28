@@ -5,9 +5,6 @@
 			"referenceName": "LS_AzureSqlDatabase",
 			"type": "LinkedServiceReference"
 		},
-		"folder": {
-			"name": "yt version"
-		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": []
